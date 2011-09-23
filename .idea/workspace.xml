@@ -1,508 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6c4ea18-6de9-429f-858c-dbbec66ad57a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat.xcodeproj/project.pbxproj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat.xcodeproj/xcuserdata/nicktackes.xcuserdatad/xcschemes/SenchaNodeChat.xcscheme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat/Resources/Capture.bundle/controls_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat/Resources/Capture.bundle/controls_bg@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat/Resources/Capture.bundle/controls_bg~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat/Resources/Capture.bundle/microphone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat/Resources/Capture.bundle/microphone@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat/Resources/Capture.bundle/microphone~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat/Resources/Capture.bundle/record_button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat/Resources/Capture.bundle/record_button@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat/Resources/Capture.bundle/record_button~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat/Resources/Capture.bundle/recording_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat/Resources/Capture.bundle/recording_bg@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat/Resources/Capture.bundle/recording_bg~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat/Resources/Capture.bundle/stop_button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat/Resources/Capture.bundle/stop_button@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat/Resources/Capture.bundle/stop_button~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat/Resources/en.lproj/Localizable.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat/Resources/es.lproj/Localizable.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat/Resources/icons/icon-72.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat/Resources/icons/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat/Resources/icons/icon@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat/Resources/splash/Default.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat/Resources/splash/Default@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat/SenchaNodeChat-Prefix.pch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat/en.lproj/InfoPlist.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/license.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/sass/config-debug.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/sass/config-release.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/sass/config.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/compass_init.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/check.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/disclosure.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/dotgrid.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/action.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/add1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/add_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/address_book.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/arrow_down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/arrow_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/arrow_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/arrow_up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/at.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/atom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/attachment.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/attachment2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/attachment3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/attachment_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/backspace.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/battery_full.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/battery_low.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/battery_power.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/blank.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/bolt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/bolt_side.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/bookmark1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/bookmark2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/bookmark_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/bookmarks.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/briefcase1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/briefcase2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/brightness1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/brightness2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/broadcast.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/bug.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/bulb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/bullseye1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/bullseye2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/calendar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/calendar2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/calendar_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/card1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/card2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/chart1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/chart2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/chart3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/chat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/chat1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/chat2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/chat3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/chat4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/chat_black1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/chat_black2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/check1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/check2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/check_black1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/check_black2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/check_dotted.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/circle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/circle2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/clash.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/cloud.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/cloud_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/cloud_black_upload1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/cloud_black_upload2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/cloud_bolt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/cloud_download.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/code1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/code2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/compass1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/compass2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/compass3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/compose.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/compose1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/compose2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/compose3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/compose_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/contract.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/cube.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/data.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/delete1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/delete_black1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/delete_black2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/doc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/doc2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/doc_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/doc_black_landscape.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/doc_compose1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/doc_compose2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/doc_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/doc_down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/doc_drawer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/doc_list.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/doc_new.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/doc_send.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/doc_up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/docs1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/docs2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/docs_black1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/docs_black2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/download.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/download1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/download2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/download_screen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/eject.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/empty1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/empty2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/equalizer1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/equalizer2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/event_complete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/expand.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/favorites.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/favorites1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/favorites_circle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/fforward.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/find.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/flag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/flickr2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/folder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/folder_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/folder_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/folder_black_open.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/folder_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/folder_delete2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/folder_lock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/folder_open2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/font.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/forbidden.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/forward_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/globe1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/globe2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/globe_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/headphones.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/heart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/heart_circle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/help.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/help_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/home.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/home2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/hot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/inbox1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/inbox2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/inbox3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/infinite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/infinite2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/info.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/info2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/info_plain.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/info_plain2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/json.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/lab.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/layout.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/link1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/link2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/link_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/list.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/locate.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/locate1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/locate2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/locate3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/locate4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/lock_closed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/lock_open.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/look.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/loop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/loop2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/loop_circle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/magic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/mail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/mail1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/mail2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/mail3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/mail4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/mail5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/maps.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/mic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/minus1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/minus2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/minus_black1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/minus_black2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/monitor1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/monitor2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/monitor3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/monitor4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/more.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/mouse.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/move.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/music1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/music2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/nodes1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/nodes2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/note1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/note2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/note3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/note_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/nuclear.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/organize.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/outbox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/pause.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/phone1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/phone2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/phone_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/phone_ring1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/phone_ring2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/photo1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/photo2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/photo3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/photo_black1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/photo_black2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/photos1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/photos2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/photos4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/piechart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/play1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/play2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/play_black1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/play_black2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/podcast.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/power socket.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/power_on.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/print.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/print2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/quote1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/quote2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/quote_black1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/quote_black2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/quote_black3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/refresh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/refresh1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/refresh2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/refresh3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/refresh5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/reply.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/replytoall.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/resize.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/resize_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/rewind.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/right2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/rss.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/rss2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/rss_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/rss_black1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/rss_black2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/screens.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/search1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/search2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/search_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/server.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/servers.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/settings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/settings1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/settings10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/settings11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/settings3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/settings4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/settings5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/settings6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/settings7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/settings8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/settings9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/settings_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/share.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/shield1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/shield2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/shop1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/shop2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/shuffle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/sign_backforth.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/sign_cross.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/sign_leftright.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/sign_leftright2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/sign_split.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/sign_switch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/sign_uturn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/spaces1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/spaces2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/speedometer1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/speedometer2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/speedometer_black1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/speedometer_black2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/star.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/stop1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/stop2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/sync.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/tabbed_book.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/tag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/tag_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/team.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/team1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/time.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/time_repeat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/trash.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/trash2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/trash_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/tree.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/tv.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/tweak.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/twitter1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/twitter2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/up1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/up2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/up_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/upload2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/user.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/user3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/user_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/user_business.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/user_fave.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/user_list.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/user_list2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/user_remote1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/user_remove2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/user_send.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/video.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/video_black1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/video_black2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/volume.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/volume_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/volume_down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/volume_mute.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/volume_up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/warming_dotted.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/warning_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/wifi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/wifi2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/wifi3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/wifi4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pictos/window.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/pullarrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/select_mask.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/tip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/tip_horizontal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/tip_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/togglebg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/togglemask.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/togglethumb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/togglethumbbg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/togglethumbmask.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/images/default/trackmask_outer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/lib/theme_images.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/templates/project/manifest.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/license.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/images/area_chart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/images/bar_chart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/images/column_chart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/images/gauge_chart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/images/line_chart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/images/mixed_chart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/images/pie_chart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/images/radar_chart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/images/scatter_chart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/sass/config.rb" />
+    <list default="true" id="b6c4ea18-6de9-429f-858c-dbbec66ad57a" name="Default" comment="phonegapped">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat.xcodeproj/project.xcworkspace/xcuserdata/nicktackes.xcuserdatad/UserInterfaceState.xcuserstate" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat.xcodeproj/xcuserdata/nicktackes.xcuserdatad/xcschemes/xcschememanagement.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat/Classes/AppDelegate.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat/Classes/AppDelegate.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat/PhoneGap.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat/Plugins/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat/SenchaNodeChat-Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SenchaNodeChat/main.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/autotheme.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/pkgs/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/pkgs/dom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/pkgs/gestures.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/pkgs/layouts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/pkgs/platform/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/pkgs/platform/data-foundation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/pkgs/platform/data-json.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/pkgs/platform/data-xml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/pkgs/platform/mvc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/pkgs/platform/native.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/pkgs/platform/util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/pkgs/plugins.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/pkgs/widgets.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/css-debug/android.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/css-debug/apple.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/css-debug/bb6.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/css-debug/sencha-touch.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/css/android.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/css/apple.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/css/bb6.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/css/sencha-touch.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/sass/android.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/sass/apple.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/sass/bb6.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/sass/sencha-touch.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/resources/themes/templates/project/sencha-touch.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/sencha-touch-debug-w-comments.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/sencha-touch-debug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/sencha-touch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sencha/sencha-touch.jsb3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/build-touch-charts.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/build-touch-charts.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/pkgs/chart-anim.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/pkgs/chart-chart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/pkgs/chart-draw.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/release-notes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/css/android.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/css/apple.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/css/bb6.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/css/chart-themes/AreaExample.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/css/chart-themes/Base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/css/chart-themes/Demo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/css/chart-themes/Energy.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/css/chart-themes/Fancy.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/css/energy-demo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/css/sencha-touch.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/css/touch-charts-demo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/css/touch-charts-full.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/css/touch-charts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/css/worlddata.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/sass/chart-themes/_Base.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/sass/chart-themes/_Demo.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/sass/chart-themes/_Energy.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/sass/chart-themes/_WorldData.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/sass/chart-themes/include/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/sass/energy-demo.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/sass/touch-charts-demo.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/sass/touch-charts-full.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/sass/touch-charts.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/sass/worlddata.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/themes/stylesheets/touch-charts/default/_all.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/themes/stylesheets/touch-charts/default/_chart.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/themes/stylesheets/touch-charts/default/_draw.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/themes/stylesheets/touch-charts/default/_legend.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/themes/stylesheets/touch-charts/default/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/themes/stylesheets/touch-charts/default/_panzoom.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/themes/stylesheets/touch-charts/default/_tabs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/themes/stylesheets/touch-charts/default/_toolbar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/resources/themes/stylesheets/touch-charts/default/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/sencha-touch-debug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/sencha-touch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/touch-charts-debug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/touch-charts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/touch-charts/touch-charts.jsb3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/phonegap-1.0.0.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/chat.css" afterPath="$PROJECT_DIR$/www/css/chat.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/build/app.all.js" afterPath="$PROJECT_DIR$/www/js/build/app.all.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/build/app.all.js.min.js" afterPath="$PROJECT_DIR$/www/js/build/app.all.js.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/build/app.all.js.ycomp.js" afterPath="$PROJECT_DIR$/www/js/build/app.all.js.ycomp.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/buildapp.all.js.log.txt" afterPath="$PROJECT_DIR$/www/js/buildapp.all.js.log.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/conrollers/Controller.Chat.js" afterPath="$PROJECT_DIR$/www/js/conrollers/Controller.Chat.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/conrollers/Controller.Config.js" afterPath="$PROJECT_DIR$/www/js/conrollers/Controller.Config.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/conrollers/Controller.Viewport.js" afterPath="$PROJECT_DIR$/www/js/conrollers/Controller.Viewport.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/index.js" afterPath="$PROJECT_DIR$/www/js/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/lib/App.util.Socketio.js" afterPath="$PROJECT_DIR$/www/js/lib/App.util.Socketio.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/lib/ext.util.md5.js" afterPath="$PROJECT_DIR$/www/js/lib/ext.util.md5.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/lib/socket.io.js" afterPath="$PROJECT_DIR$/www/js/lib/socket.io.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/models/Model.ChatMessage.js" afterPath="$PROJECT_DIR$/www/js/models/Model.ChatMessage.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/models/Model.Config.js" afterPath="$PROJECT_DIR$/www/js/models/Model.Config.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/stores/Store.Chat.js" afterPath="$PROJECT_DIR$/www/js/stores/Store.Chat.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/stores/Store.Config.js" afterPath="$PROJECT_DIR$/www/js/stores/Store.Config.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/views/View.Chat.js" afterPath="$PROJECT_DIR$/www/js/views/View.Chat.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/views/View.Config.js" afterPath="$PROJECT_DIR$/www/js/views/View.Config.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/views/View.Viewport.js" afterPath="$PROJECT_DIR$/www/js/views/View.Viewport.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scss/chat.scss" afterPath="$PROJECT_DIR$/www/scss/chat.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scss/config.rb" afterPath="$PROJECT_DIR$/www/scss/config.rb" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/build-touch-charts.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/build-touch-charts.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/license.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/pkgs/chart-anim.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/pkgs/chart-chart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/pkgs/chart-draw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/release-notes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/css/android.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/css/apple.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/css/bb6.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/css/chart-themes/AreaExample.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/css/chart-themes/Base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/css/chart-themes/Demo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/css/chart-themes/Energy.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/css/chart-themes/Fancy.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/css/energy-demo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/css/sencha-touch.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/css/touch-charts-demo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/css/touch-charts-full.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/css/touch-charts.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/css/worlddata.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/images/area_chart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/images/bar_chart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/images/column_chart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/images/gauge_chart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/images/line_chart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/images/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/images/mixed_chart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/images/pie_chart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/images/radar_chart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/images/scatter_chart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/sass/chart-themes/_Base.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/sass/chart-themes/_Demo.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/sass/chart-themes/_Energy.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/sass/chart-themes/_WorldData.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/sass/chart-themes/include/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/sass/config.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/sass/energy-demo.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/sass/touch-charts-demo.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/sass/touch-charts-full.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/sass/touch-charts.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/sass/worlddata.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/themes/stylesheets/touch-charts/default/_all.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/themes/stylesheets/touch-charts/default/_chart.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/themes/stylesheets/touch-charts/default/_draw.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/themes/stylesheets/touch-charts/default/_legend.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/themes/stylesheets/touch-charts/default/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/themes/stylesheets/touch-charts/default/_panzoom.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/themes/stylesheets/touch-charts/default/_tabs.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/themes/stylesheets/touch-charts/default/_toolbar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/resources/themes/stylesheets/touch-charts/default/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/sencha-touch-debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/sencha-touch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/touch-charts-debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/touch-charts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/touch-charts/touch-charts.jsb3" afterPath="" />
     </list>
     <ignored path="SenchaNodeJsChat.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -612,7 +170,65 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SenchaNodeJsChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SenchaNodeJsChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SenchaNodeJsChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SenchaNodeJsChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="SenchaNodeChat.xcodeproj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SenchaNodeJsChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SenchaNodeJsChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SenchaNodeChat.xcodeproj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xcuserdata" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nicktackes.xcuserdatad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xcschemes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -710,7 +326,7 @@
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
     <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="update of readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="phonegapped" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -724,6 +340,7 @@
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="update of readme" />
+    <MESSAGE value="phonegapped" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
