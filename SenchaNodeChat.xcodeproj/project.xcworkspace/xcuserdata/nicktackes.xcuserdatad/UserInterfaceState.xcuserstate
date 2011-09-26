@@ -756,7 +756,7 @@
 			</dict>
 		</dict>
 		<string>file://localhost/Users/nicktackes/WebStormProjects/SenchaNodeJsChat/SenchaNodeChat.xcodeproj/</string>
-		<real>338510960.78115398</real>
+		<real>338759759.02082801</real>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -833,8 +833,8 @@
 		</dict>
 		<string>IDEDeviceLocation</string>
 		<string>IDEDeviceArchitecture</string>
-		<string>dvtdevice-iphonesimulator:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk-iPhone</string>
-		<string>i386</string>
+		<string>dvtdevice-iphone:01b731dac9af572b1312d599fffbcdf5c0f7ace5</string>
+		<string>armv7</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1156,7 +1156,7 @@
 				<integer>123</integer>
 			</dict>
 			<key>NS.time</key>
-			<real>338510941.90065902</real>
+			<real>338759633.67539698</real>
 		</dict>
 		<dict>
 			<key>$classes</key>
@@ -1167,7 +1167,7 @@
 			<key>$classname</key>
 			<string>NSDate</string>
 		</dict>
-		<string>Today at 3:49 PM</string>
+		<string>Today at 12:53 PM</string>
 		<integer>106</integer>
 		<dict>
 			<key>$class</key>
@@ -1455,7 +1455,7 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>15</integer>
+					<integer>137</integer>
 				</dict>
 			</array>
 		</dict>
@@ -2405,7 +2405,7 @@
 				<integer>233</integer>
 			</dict>
 		</dict>
-		<real>338510960.78181303</real>
+		<real>338759759.02156401</real>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2481,7 +2481,7 @@
 				</dict>
 			</array>
 		</dict>
-		<string>{{0, 0}, {1140, 876}}</string>
+		<string>{{0, 0}, {1140, 739}}</string>
 		<dict>
 			<key>$class</key>
 			<dict>

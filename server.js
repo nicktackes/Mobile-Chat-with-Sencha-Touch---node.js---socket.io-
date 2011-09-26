@@ -5,18 +5,22 @@ var http = require('http'),
 		sys  = require('sys'),
 		fs   = require('fs'),
 		io   = require('socket.io');
-var Connect = require('connect');
+express = require('express');
 
-var server = Connect.createServer(
-	Connect.logger(), // Log responses to the terminal using Common Log Format.
-	//Connect.responseTime(), // Add a special header with timing information.
-	Connect.conditionalGet(), // Add HTTP 304 responses to save even more bandwidth.
-	Connect.cache(), // Add a short-term ram-cache to improve performance.
-	Connect.gzip(), // Gzip the output stream when the browser wants it.
-	Connect.staticProvider(__dirname) // Serve all static files in the current dir.
-);
+var app = express.createServer();
 
-var socket = io.listen(server);
+
+app.configure(function () {
+  app.use(express.static(__dirname + '/www'));
+});
+
+
+app.listen(4000, function () {
+  var addr = app.address();
+  console.log('   app listening on http://' + addr.address + ':' + addr.port);
+});
+
+var socket = io.listen(app);
 
 socket.on('connection', function(client) {
 
@@ -38,4 +42,3 @@ socket.on('connection', function(client) {
 
 });
 
-server.listen(4000);
