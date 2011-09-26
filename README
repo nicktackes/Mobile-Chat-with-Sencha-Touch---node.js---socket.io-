@@ -1,1 +1,5 @@
 chat via sockets using node.js and sencha touch.
+
+you must start node server with sudo in order for this to work..
+
+sudo node server.js
